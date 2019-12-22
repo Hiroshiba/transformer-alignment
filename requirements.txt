@@ -1,0 +1,7 @@
+numpy
+torch
+tqdm
+pytest
+pyyaml
+git+https://github.com/Hiroshiba/acoustic_feature_extractor
+git+https://github.com/Hiroshiba/pytorch-trainer
